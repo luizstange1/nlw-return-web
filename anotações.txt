@@ -1,0 +1,6 @@
+REACT 
+
+*Componente*
+
+é uma função que retorna HTML. Deve ser sempre iniciado com letra maiuscula
+
